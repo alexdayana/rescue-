@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.goodteam.animalrevoltbattle",
+		"package_name": "laila",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
